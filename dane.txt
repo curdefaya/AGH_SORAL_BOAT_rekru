@@ -1,0 +1,10 @@
+3
+Square
+2
+3
+Circle
+2
+1
+Triangle
+3
+2
